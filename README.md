@@ -15,7 +15,7 @@ Once you have entered in all the desired usernames and passwords, type in "stop"
 - Make sure you have created a file to be used for an encryption key. This can be any file. Also make sure it is on both the sender's and the receiver's sides.
 
 #receiver.py
--SWITCHES:
+- SWITCHES:
   - "-sa" results in the ascii armored result of the transfer being printed if ascii armoring is requested. Note that this data is still encrypted.
   - "-v" results in all data received to be printed
   - "-hf" results in the intentional failure of the security hashing, this is used for debugging purposes
@@ -33,7 +33,7 @@ Once you have entered in all the desired usernames and passwords, type in "stop"
 
 
 #sender.py
--SWITCHES:
+- SWITCHES:
   - "-sa" results in the ascii armored result of the transfer being printed if ascii armoring is requested. Note that this data is still encrypted.
   - "-v"  results in all data to be sent being printed
 -This program is to be run on the sending party's end. Run the program in the shell using "python sender.py".
