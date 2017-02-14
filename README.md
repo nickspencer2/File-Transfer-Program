@@ -1,4 +1,4 @@
-# File-Transfer-Program
+#File Transfer Program
 This is a File Transfer program written in Python (v3). It is to demonstrate the manipulation of binary data and its sending over a network. 
 ---------------------------------------------------------------------------------------------------------------------------------------
 #Features
