@@ -45,7 +45,7 @@ Once you have entered in all the desired usernames and passwords, type in "stop"
     - After entering this command, you will be prompted for your username, and then your password.
       If this is successful, you will be able to request for your file to be sent. 
     - If this is unsuccessful, you will be prompted for a new command, and not be able to request to send a file.
-  - send <filename>
+  - send _filename_
     - After entering in the "send" command along with the name of the file you wish to send, a request prompt will appear on the sender's side.
     - If the request is declined, then the program will terminate on both ends.
     - If the request is accepted, then you will be asked if you wish to ascii armor the data (y or n). 
