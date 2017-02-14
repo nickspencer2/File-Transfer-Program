@@ -51,3 +51,5 @@ Once you have entered in all the desired usernames and passwords, type in "stop"
     - If the request is accepted, then you will be asked if you wish to ascii armor the data (y or n). 
       - More info on ascii armoring can be found here: https://en.wikipedia.org/wiki/Binary-to-text_encoding
     - Next, the file will begin sending. Once completed, the message "File successfully sent." will be printed and the program will terminate.
+  - disconnect
+    - this will end the session and the program will terminate on both ends.
